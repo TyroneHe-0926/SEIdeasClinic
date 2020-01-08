@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Aircraft
+  - WarpGates
+  - LargeBodies
+  - SmallBodies
+  - Missile
+  - HealthBar
+  - StarContainer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Interior
+  - Galaxy
+  - Exterior
+  - 
+  - 
+  - Projectiles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1184556175
+    locked: 0
+  - name: GalaxyMapConnections
+    uniqueID: 3135281029
+    locked: 0
+  - name: GalaxyMapNodes
+    uniqueID: 3250679349
+    locked: 0
+  - name: Foreground
+    uniqueID: 2853810621
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

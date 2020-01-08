@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Sandbox/Scenes/GameCore.unity
+    guid: 5a988e46218f11041bf09c286522d04a
+  - enabled: 1
+    path: Assets/Sandbox/Scenes/GalaxyMaps/GalaxyMapA.unity
+    guid: 1b12e37319ce433459de7c862cbf1e1d
+  - enabled: 1
+    path: Assets/Sandbox/Scenes/GalaxyMaps/GalaxyMapB.unity
+    guid: c2c65bcbf3566644fa072d1a48978683
+  - enabled: 1
+    path: Assets/Sandbox/Scenes/GalaxyMaps/GalaxyMapC.unity
+    guid: 5b3de6acca232a94a824b11930e84824
+  - enabled: 1
+    path: Assets/Sandbox/Scenes/SolarSystems/Alpha Centauri.unity
+    guid: 85a8b883fae57844fb220dba970e9b1a
+  - enabled: 1
+    path: Assets/Sandbox/Scenes/SolarSystems/Aquarii.unity
+    guid: 635cde7e33fb64146aeb284b56996054
+  - enabled: 1
+    path: Assets/Sandbox/Scenes/SolarSystems/Barnard's Star.unity
+    guid: 6530070f460ec94418f9661db676f907
+  - enabled: 1
+    path: Assets/Sandbox/Scenes/SolarSystems/Cygni.unity
+    guid: 0013ea278af95fd4e9c0e841a3039399
+  - enabled: 1
+    path: Assets/Sandbox/Scenes/SolarSystems/Groombridge.unity
+    guid: 78deb1d32243e8541bda1f23d72a0895
+  - enabled: 1
+    path: Assets/Sandbox/Scenes/SolarSystems/Indi.unity
+    guid: 5fb13e2bb3bc1c64c8a81a70828f090c
+  - enabled: 1
+    path: Assets/Sandbox/Scenes/SolarSystems/Kepler 438.unity
+    guid: 9edd844b80131fc489948e53a41b51ab
+  - enabled: 1
+    path: Assets/Sandbox/Scenes/SolarSystems/Kruger.unity
+    guid: 4be1dd5d8bf3ecd4993a49712c779b00
+  - enabled: 1
+    path: Assets/Sandbox/Scenes/SolarSystems/Luyten.unity
+    guid: 76b9e49f07e02e34f8a3d9b38794f82b
+  - enabled: 1
+    path: Assets/Sandbox/Scenes/SolarSystems/Quaid.unity
+    guid: 1c6fe677a6584b144895f4fb6e71e29e
+  - enabled: 1
+    path: Assets/Sandbox/Scenes/SolarSystems/Sirius.unity
+    guid: 517c9dd11aca9e04698a707d6bf6c39b
+  - enabled: 1
+    path: Assets/Sandbox/Scenes/SolarSystems/Sol.unity
+    guid: dedf20ffc89e94243ba5563c36d8ed3c
+  - enabled: 1
+    path: Assets/Sandbox/Scenes/SolarSystems/Wolf 359.unity
+    guid: 3b534a534f01e4449bdde7636fc316ea
+  - enabled: 1
+    path: Assets/Sandbox/Scenes/SolarSystems/Yennefer.unity
+    guid: 2b7b166399b4f41408c12d5f0fe9e48a
+  m_configObjects: {}
