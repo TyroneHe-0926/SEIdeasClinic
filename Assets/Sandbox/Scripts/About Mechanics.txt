@@ -1,0 +1,20 @@
+GAME MECHANICS SCRIPTS
+
+GameCore.cs
+	/// There should be only one game core in the game core scene.
+	/// Another gameObject tagged "StarContainer" is also required.
+	/// This script controls level loading, winning and losing, as well as spawning in the Player gameObject.
+	
+GalaxyMapGenerator.cs
+	/// This script requires an object tagged "StarContainer" to be present in the game core scene.
+	/// One star will be generated for each child object within the StarContainer gameObject.
+	/// This allows you to use the Unity Scene editor as a star map designing tool.
+	
+SmoothCamera.cs
+RingPlanetCameraZoom.cs
+	/// couple of camera controllers
+	
+FinalPlanet.cs
+	/// game core wins if collided with
+LoseIfTouched.cs
+	/// game core loses if collided with
